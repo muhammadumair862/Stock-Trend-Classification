@@ -1,5 +1,6 @@
-pip install joblib
-pip install streamlit
-pip install pandas
-pip install sklearn
-pip install xgboost
+joblib
+streamlit
+pandas
+sklearn
+xgboost
+
